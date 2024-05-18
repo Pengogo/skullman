@@ -5,7 +5,7 @@
   "author": "Pengogo (and others)",
   "cover": "https://i.imgur.com/QU5ka2i.png",
   "chapters": {
-    "<chapter number>": {
+    "1": {
       "title": "Skullman Round 1 (W)",
       "volume": "1",
       "groups": {
@@ -13,5 +13,13 @@
       },
       "last_updated": "1616368746"
     },
+  "2": {
+      "title": "Granny Jo Round 1 (L)",
+      "volume": "2",
+      "groups": {
+        "Chadiffer": "/proxy/api/imgur/chapter/uT7Re78/"
+      },
+      "last_updated": "1616368746"
+    }
   }
 }
