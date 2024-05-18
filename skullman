@@ -1,0 +1,17 @@
+{
+  "title": "Ballad of Skullman",
+  "description": "The tales of a terrible yokai",
+  "artist": "Pengogo (and others)",
+  "author": "Pengogo (and others)",
+  "cover": "https://i.imgur.com/QU5ka2i.png",
+  "chapters": {
+    "<chapter number>": {
+      "title": "Skullman Round 1 (W)",
+      "volume": "1",
+      "groups": {
+        "Pengogo": "/proxy/api/imgur/chapter/Re8o9kc/"
+      },
+      "last_updated": "1616368746"
+    },
+  }
+}
