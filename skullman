@@ -14,10 +14,26 @@
       "last_updated": "1616368746"
     },
   "2": {
-      "title": "Granny Jo Round 1 (L)",
+      "title": "Skullman Round 2 (W)",
       "volume": "2",
       "groups": {
+        "Pengogo": "/proxy/api/imgur/chapter/wKMaFd9/"
+      },
+      "last_updated": "1616368746"
+    },
+ "3": {
+      "title": "Granny Jo Round 1 (L)",
+      "volume": "3",
+      "groups": {
         "Chadiffer": "/proxy/api/imgur/chapter/uT7Re78/"
+      },
+      "last_updated": "1616368746"
+    },
+ "4": {
+      "title": "Ellie Wake Round 2 (L)",
+      "volume": "4",
+      "groups": {
+        "Redstalk": "/proxy/api/imgur/chapter/AoyE8f2/"
       },
       "last_updated": "1616368746"
     }
