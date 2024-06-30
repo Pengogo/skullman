@@ -22,18 +22,34 @@
       "last_updated": "1616368746"
     },
  "3": {
-      "title": "Granny Jo Round 1 (L)",
+      "title": "Skullman Round 3 (?)",
       "volume": "3",
+      "groups": {
+        "Pengogo": "/proxy/api/imgur/chapter/MduUjRV/"
+      },
+      "last_updated": "1616368746"
+    },
+ "4": {
+      "title": "Granny Jo Round 1 (L)",
+      "volume": "4",
       "groups": {
         "Chadiffer": "/proxy/api/imgur/chapter/uT7Re78/"
       },
       "last_updated": "1616368746"
     },
- "4": {
+ "5": {
       "title": "Ellie Wake Round 2 (L)",
-      "volume": "4",
+      "volume": "5",
       "groups": {
         "Redstalk": "/proxy/api/imgur/chapter/AoyE8f2/"
+      },
+      "last_updated": "1616368746"
+    },
+ "6": {
+      "title": "Canius Inmanis Round 3 (?)",
+      "volume": "6",
+      "groups": {
+        "Zeedikay": "/proxy/api/imgur/chapter/JZ0BIyU/"
       },
       "last_updated": "1616368746"
     }
