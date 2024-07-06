@@ -22,10 +22,10 @@
       "last_updated": "1616368746"
     },
  "3": {
-      "title": "Skullman Round 3 (?)",
+      "title": "Stray_Dog Round 3 (W)",
       "volume": "3",
       "groups": {
-        "Pengogo": "/proxy/api/imgur/chapter/MduUjRV/"
+        "Pengogo": "/proxy/api/imgur/chapter/37aNs7m/"
       },
       "last_updated": "1616368746"
     },
@@ -46,8 +46,16 @@
       "last_updated": "1616368746"
     },
  "6": {
-      "title": "Canius Inmanis Round 3 (?)",
+      "title": "Skullman Round 3 (L)",
       "volume": "6",
+      "groups": {
+        "Pengogo": "/proxy/api/imgur/chapter/MduUjRV/"
+      },
+      "last_updated": "1616368746"
+    },
+ "7": {
+      "title": "Canius Inmanis Round 3 (L)",
+      "volume": "7",
       "groups": {
         "Zeedikay": "/proxy/api/imgur/chapter/JZ0BIyU/"
       },
