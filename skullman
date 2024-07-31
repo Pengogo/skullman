@@ -30,34 +30,50 @@
       "last_updated": "1616368746"
     },
  "4": {
+      "title": "Skull-Chan Round 4 (W)",
+      "volume": "5",
+      "groups": {
+        "Pengogo": "/proxy/api/imgur/chapter/aVdnaSq/"
+      },
+      "last_updated": "1616368746"
+    }, 
+"5": {
       "title": "Granny Jo Round 1 (L)",
-      "volume": "4",
+      "volume": "5",
       "groups": {
         "Chadiffer": "/proxy/api/imgur/chapter/uT7Re78/"
       },
       "last_updated": "1616368746"
     },
- "5": {
+ "6": {
       "title": "Ellie Wake Round 2 (L)",
-      "volume": "5",
+      "volume": "6",
       "groups": {
         "Redstalk": "/proxy/api/imgur/chapter/AoyE8f2/"
       },
       "last_updated": "1616368746"
     },
- "6": {
+ "7": {
       "title": "Skullman Round 3 (L)",
-      "volume": "6",
+      "volume": "7",
       "groups": {
         "Pengogo": "/proxy/api/imgur/chapter/MduUjRV/"
       },
       "last_updated": "1616368746"
     },
- "7": {
+ "8": {
       "title": "Canius Inmanis Round 3 (L)",
-      "volume": "7",
+      "volume": "9",
       "groups": {
         "Zeedikay": "/proxy/api/imgur/chapter/JZ0BIyU/"
+      },
+      "last_updated": "1616368746"
+    },
+ "9": {
+      "title": "Chari Vari Round 4 (L)",
+      "volume": "10",
+      "groups": {
+        "Chopshaven": "/proxy/api/imgur/chapter/PPPTibT/"
       },
       "last_updated": "1616368746"
     }
