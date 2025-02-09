@@ -45,7 +45,15 @@
       },
       "last_updated": "1616368746"
     }, 
-"6": {
+ "6": {
+      "title": "Mr. and Mrs. Harker (W)",
+      "volume": "5",
+      "groups": {
+        "Veller": "/proxy/api/imgur/chapter/nH8JeQQ/"
+      },
+      "last_updated": "1616368746"
+    }, 
+"7": {
       "title": "Granny Jo Round 1 (L)",
       "volume": "6",
       "groups": {
@@ -53,7 +61,7 @@
       },
       "last_updated": "1616368746"
     },
- "7": {
+ "8": {
       "title": "Ellie Wake Round 2 (L)",
       "volume": "7",
       "groups": {
@@ -61,7 +69,7 @@
       },
       "last_updated": "1616368746"
     },
- "8": {
+ "9": {
       "title": "Skullman Round 3 (L)",
       "volume": "8",
       "groups": {
@@ -69,7 +77,7 @@
       },
       "last_updated": "1616368746"
     },
- "9": {
+ "10": {
       "title": "Canius Inmanis Round 3 (L)",
       "volume": "9",
       "groups": {
@@ -77,7 +85,7 @@
       },
       "last_updated": "1616368746"
     },
- "10": {
+ "11": {
       "title": "Chari Vari Round 4 (L)",
       "volume": "10",
       "groups": {
@@ -85,11 +93,19 @@
       },
       "last_updated": "1616368746"
     },
- "11": {
+ "12": {
       "title": "The Widow Round 5 (L)",
       "volume": "11",
       "groups": {
         "Chopshaven": "/proxy/api/imgur/chapter/cfP01c2/"
+      },
+      "last_updated": "1616368746"
+    },
+ "13": {
+      "title": "Skullman Round 6 (L)",
+      "volume": "10",
+      "groups": {
+        "Pengogo": "/proxy/api/imgur/chapter/CiPW0RC/"
       },
       "last_updated": "1616368746"
     }
